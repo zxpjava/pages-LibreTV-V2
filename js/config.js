@@ -120,17 +120,17 @@ const API_SITES = {
         adult: true
     },
     ckzy: {
-        api: 'https://www.ckzy1.com',
+        api: 'https://ckzy.me/api.php/provide/vod/',
         name: 'CK资源',
         adult: true
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
         name: 'jkun资源',
         adult: true
     },
     bwzy: {
-        api: 'https://api.bwzym3u8.com',
+        api: 'https://api.bwzyz.com/api.php/provide/vod/',
         name: '百万资源',
         adult: true
     },
